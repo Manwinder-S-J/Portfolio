@@ -6,7 +6,7 @@ reporting, and administration systems.
 
 ## Live website
 
-Deployment link coming soon.
+[manwindersingh.dev](https://manwindersingh.dev/)
 
 ## Built with
 
