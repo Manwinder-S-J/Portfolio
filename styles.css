@@ -295,7 +295,7 @@
     }
     .strength-card:nth-child(even) .strength-icon { border-color: rgba(244, 173, 63, 0.25); background: var(--accent-soft); color: var(--accent); }
     .strength-icon svg { width: 19px; height: 19px; fill: none; stroke: currentColor; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }
-    .strength-card h2 {
+    .strength-card h3 {
       position: relative;
       z-index: 1;
       margin-top: 15px;
