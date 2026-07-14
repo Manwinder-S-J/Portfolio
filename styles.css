@@ -189,8 +189,8 @@
     .hero {
       min-height: max(760px, 100svh);
       display: flex;
-      align-items: center;
-      padding: 128px 0 86px;
+      align-items: flex-start;
+      padding: 122px 0 80px;
     }
     .hero-copy { max-width: 960px; }
     .hero > .shell,
